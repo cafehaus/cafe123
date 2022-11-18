@@ -1,0 +1,21 @@
+{
+  "name": "cafehaus",
+  "version": "1.0.0",
+  "description": "咖啡教室主页",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vitepress",
+    "vue"
+  ],
+  "author": "cafehaus",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.27"
+  }
+}
