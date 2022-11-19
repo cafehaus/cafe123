@@ -3,11 +3,11 @@ layout: home
 
 hero:
   name: CAFEHAUS
-  text: 咖啡教室主页
+  # text: 咖啡教室主页
   tagline: 就想开家小小咖啡馆，做做咖啡、调调酒...
   image:
     src: /logo.svg
-    alt: VitePress
+    alt: 咖啡教室
   actions:
     - theme: brand
       text: 咖啡词典
