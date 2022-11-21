@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 咖啡词典
-      link: /pages/咖啡词典/咖啡豆/index
+      link: /src/咖啡词典/咖啡豆/index
     - theme: alt
       text: 知乎
       link: https://www.zhihu.com/people/cafehaus

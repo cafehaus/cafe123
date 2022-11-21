@@ -4,6 +4,7 @@ module.exports = {
   title: '咖啡教室',
   description: '咖啡教室主页，分享跟咖啡相关的一切',
   // base: '/cafe123/',
+  sirDir: 'docs/src',
   themeConfig: {
     nav: [
       { text: '微博', link: 'https://weibo.com/u/3503148914' },
