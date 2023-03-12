@@ -17,6 +17,10 @@
   "author": "cafehaus",
   "license": "ISC",
   "devDependencies": {
+    "stylus": "^0.59.0",
     "vitepress": "^1.0.0-alpha.27"
+  },
+  "dependencies": {
+    "echarts": "^5.4.1"
   }
 }
