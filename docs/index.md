@@ -13,6 +13,6 @@ hero:
       text: 咖啡词典
       link: /src/咖啡词典/咖啡豆/index
     - theme: alt
-      text: 知乎
-      link: https://www.zhihu.com/people/cafehaus
+      text: 咖啡风味轮
+      link: /src/咖啡资源/咖啡风味轮/index
 ---
