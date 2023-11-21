@@ -800,6 +800,7 @@ const option = {
   title: {
     text: "SCAA 咖啡风味轮",
     subtext: '世界咖啡研究感官词典',
+    sublink: 'https://worldcoffeeresearch.org/resources/sensory-lexicon',
     textStyle: {
       fontSize: 18,
       align: 'center'
@@ -808,10 +809,9 @@ const option = {
       align: 'center'
     },
     left: 'center',
-    // top: 10,
   },
   textStyle: {
-    fontSize: 6,
+    fontSize: 10,
   },
   series: {
     radius: ['15%', '80%'],

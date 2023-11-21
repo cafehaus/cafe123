@@ -800,6 +800,7 @@ const optionEn = {
   title: {
     text: "SCAA COFFEE TASTER'S FLOVOR WHEEL",
     subtext: 'WORLD COFFEE RESEARCH SENSORY LEXICON',
+    sublink: 'https://worldcoffeeresearch.org/resources/sensory-lexicon',
     textStyle: {
       fontSize: 14,
       align: 'center'
@@ -810,7 +811,7 @@ const optionEn = {
     left: 'center',
   },
   textStyle: {
-    fontSize: 6,
+    fontSize: 10,
   },
   series: {
     radius: ['15%', '80%'],

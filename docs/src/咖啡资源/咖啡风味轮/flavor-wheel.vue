@@ -8,20 +8,15 @@
 </template>
 
 <script>
-import * as echarts from 'echarts'
-// import * as echarts from 'echarts/core'
-// import { TitleComponent } from 'echarts/components'
-// import { SunburstChart } from 'echarts/charts'
-// import { CanvasRenderer } from 'echarts/renderers'
-// echarts.use([TitleComponent, SunburstChart, CanvasRenderer])
+import echarts from './echarts'
 import option from './option.js' // 中文版数据
 import optionEn from './optionEn.js' // 英文版数据
 
 export default {
   data() {
     return {
-        chart: null,
-        type: '1',
+      chart: null,
+      type: '1',
     }
   },
 
