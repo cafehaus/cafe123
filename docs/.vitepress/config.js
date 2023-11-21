@@ -21,7 +21,7 @@ module.exports = {
     lastUpdatedText: '最近更新',
     footer: {
       message: 'Hello coffee.',
-      copyright: 'Copyright © 2022 cafehaus'
+      copyright: 'Copyright © 2014-2023 cafehaus'
     }
   },
 }
