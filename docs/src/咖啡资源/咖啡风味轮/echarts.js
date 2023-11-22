@@ -1,6 +1,10 @@
 // 引入 echarts 核心模块 和 Canvas 渲染器
 import * as echarts from 'echarts/core'
-import { CanvasRenderer } from 'echarts/renderers'
+
+// 渲染器
+// import { CanvasRenderer } from 'echarts/renderers'
+import renderers from 'echarts/renderers'
+const { CanvasRenderer } = renderers // 不这样引用 build 时会报错
 
 // 引入图表
 import { SunburstChart } from 'echarts/charts'
