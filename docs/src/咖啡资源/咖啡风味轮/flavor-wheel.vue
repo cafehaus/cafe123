@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import echarts from './echarts'
+import * as echarts from 'echarts'
 import option from './option.js' // 中文版数据
 import optionEn from './optionEn.js' // 英文版数据
 
